@@ -45,8 +45,8 @@ Accuracy Achieved:
 99.37%
 
 ## Author
+Komal Kadam
 
-Shraddha Khalkar
 ## Large Files
 
 Some files are not included in this GitHub repository because they exceed GitHub's upload size limit (25 MB).
